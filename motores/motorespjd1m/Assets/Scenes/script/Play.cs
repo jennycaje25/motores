@@ -3,16 +3,16 @@ using UnityEngine;
 
 public class Play : MonoBehaviour
 {
-    
-    
-    
+
+
+
     private int numero;
     public float velocidade = 40;
-    
+
     void Start()
     {
         numero = 0;
-        
+
     }
 
 
@@ -28,15 +28,20 @@ public class Play : MonoBehaviour
         }
 
         if (Input.GetKey(KeyCode.D))
-            
+
             gameObject.transform.position += new Vector3(+velocidade * Time.deltaTime, 0, 0);
         {
 
+
         }
 
-    }
-}
-               
+        if (Input.GetKey(KeyCode.Space)) 
+        {
+            gameObject.transform.position += new Vector3(0, velocidade * Time.deltaTime, 0);
+
+        }
+     }
+}          
         
         
         

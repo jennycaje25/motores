@@ -1,6 +1,7 @@
 using UnityEngine;
 
-public class TesteSoma : MonoBehaviour;
+public class TesteSoma : MonoBehaviour
+{
     private int A;
     private int B;
     private int C;
@@ -20,5 +21,5 @@ public class TesteSoma : MonoBehaviour;
         return a + b;
     }
     
-        
+    } 
     
