@@ -3,19 +3,13 @@ using UnityEngine;
 
 public class Play : MonoBehaviour
 {
-
-
-
-    private int numero;
     public float velocidade = 40;
+    public float forcaDoPulo = 4;
 
     void Start()
     {
-        numero = 0;
-
+        int numero = 0;
     }
-
-
     void Update()
     {
         //Debug.Log(numero);
