@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PARADO
+  m_Name: andando2
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -22,6 +22,13 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: -1826952330918056546, guid: 2778dbffbe7367c4c9071e9d698833f4, type: 3}
+<<<<<<< HEAD:motores/motorespjd1m/Assets/Scenes/PARADO.anim
+=======
+    - time: 0.1
+      value: {fileID: 1614739782702853134, guid: 2778dbffbe7367c4c9071e9d698833f4, type: 3}
+    - time: 0.18333334
+      value: {fileID: -1826952330918056546, guid: 2778dbffbe7367c4c9071e9d698833f4, type: 3}
+>>>>>>> 8f78cea55bec6f3aeaa821ecb6fb8ee49d5ba5ca:motores/motorespjd1m/Assets/Scenes/andando2.anim
     attribute: m_Sprite
     path: 
     classID: 212
@@ -45,12 +52,21 @@ AnimationClip:
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
     - {fileID: -1826952330918056546, guid: 2778dbffbe7367c4c9071e9d698833f4, type: 3}
+<<<<<<< HEAD:motores/motorespjd1m/Assets/Scenes/PARADO.anim
+=======
+    - {fileID: 1614739782702853134, guid: 2778dbffbe7367c4c9071e9d698833f4, type: 3}
+    - {fileID: -1826952330918056546, guid: 2778dbffbe7367c4c9071e9d698833f4, type: 3}
+>>>>>>> 8f78cea55bec6f3aeaa821ecb6fb8ee49d5ba5ca:motores/motorespjd1m/Assets/Scenes/andando2.anim
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
+<<<<<<< HEAD:motores/motorespjd1m/Assets/Scenes/PARADO.anim
     m_StopTime: 0.016666668
+=======
+    m_StopTime: 0.2
+>>>>>>> 8f78cea55bec6f3aeaa821ecb6fb8ee49d5ba5ca:motores/motorespjd1m/Assets/Scenes/andando2.anim
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
