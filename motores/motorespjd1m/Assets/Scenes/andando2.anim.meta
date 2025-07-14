@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:motores/motorespjd1m/Assets/Scenes/pulo.anim.meta
-guid: 4fd21ade46bbfa34a8729934eb86fa17
-========
-guid: b0e6275e603a39a4aa31cc96e806c6f9
->>>>>>>> 8f78cea55bec6f3aeaa821ecb6fb8ee49d5ba5ca:motores/motorespjd1m/Assets/Scenes/andando2.anim.meta
+guid: 05169a908d33fa5459effe16ba43e1bd
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
